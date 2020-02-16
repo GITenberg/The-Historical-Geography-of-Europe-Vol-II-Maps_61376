@@ -1,5 +1,8 @@
 _repo: The-Historical-Geography-of-Europe-Vol-II-Maps_61376
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 61376-h/images/cover.jpg
 creator:
   author:
     agent_name: Freeman, Edward A. (Edward Augustus)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/526
     wikipedia: http://en.wikipedia.org/wiki/Edward_Augustus_Freeman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61376#The-Historical-Geography-of-Europe-Vol-II-Maps
 gutenberg_issued: '2020-02-11'
 gutenberg_type: Text
 identifiers:
